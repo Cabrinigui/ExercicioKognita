@@ -1,0 +1,646 @@
+estado;codigo;numero;municipio;populacao
+SP;35;105;Adamantina;35.153
+SP;35;204;Adolfo;3.545
+SP;35;303;Aguaí;36.981
+SP;35;402;Águas da Prata;8.262
+SP;35;501;Águas de Lindóia;18.908
+SP;35;550;Águas de Santa Bárbara;6.142
+SP;35;600;Águas de São Pedro;3.588
+SP;35;709;Agudos;37.582
+SP;35;758;Alambari;6.231
+SP;35;808;Alfredo Marcondes;4.201
+SP;35;907;Altair;4.211
+SP;35;1004;Altinópolis;16.221
+SP;35;1103;Alto Alegre;4.078
+SP;35;1152;Alumínio;18.903
+SP;35;1202;Álvares Florence;3.616
+SP;35;1301;Álvares Machado;25.078
+SP;35;1400;Álvaro de Carvalho;5.320
+SP;35;1509;Alvinlândia;3.251
+SP;35;1608;Americana;244.370
+SP;35;1707;Américo Brasiliense;41.545
+SP;35;1806;Américo de Campos;5.993
+SP;35;1905;Amparo;73.145
+SP;35;2002;Analândia;5.115
+SP;35;2101;Andradina;57.245
+SP;35;2200;Angatuba;25.724
+SP;35;2309;Anhembi;6.911
+SP;35;2408;Anhumas;4.172
+SP;35;2507;Aparecida;36.211
+SP;35;2606;Aparecida d'Oeste;4.122
+SP;35;2705;Apiaí;24.081
+SP;35;2754;Araçariguama;23.343
+SP;35;2804;Araçatuba;199.210
+SP;35;2903;Araçoiaba da Serra;35.389
+SP;35;3000;Aramina;5.689
+SP;35;3109;Arandu;6.373
+SP;35;3158;Arapeí;2.452
+SP;35;3208;Araraquara;240.542
+SP;35;3307;Araras;136.739
+SP;35;3356;Arco-Íris;1.755
+SP;35;3406;Arealva;8.665
+SP;35;3505;Areias;3.906
+SP;35;3604;Areiópolis;11.186
+SP;35;3703;Ariranha;9.851
+SP;35;3802;Artur Nogueira;56.247
+SP;35;3901;Arujá;92.453
+SP;35;3950;Aspásia;1.815
+SP;35;4008;Assis;105.768
+SP;35;4107;Atibaia;145.378
+SP;35;4206;Auriflama;15.316
+SP;35;4305;Avaí;5.467
+SP;35;4404;Avanhandava;14.063
+SP;35;4503;Avaré;91.792
+SP;35;4602;Bady Bassitt;18.013
+SP;35;4701;Balbinos;6.127
+SP;35;4800;Bálsamo;9.209
+SP;35;4909;Bananal;11.039
+SP;35;5005;Barão de Antonina;3.525
+SP;35;5104;Barbosa;7.532
+SP;35;5203;Bariri;35.844
+SP;35;5302;Barra Bonita;36.125
+SP;35;5351;Barra do Chapéu;5.794
+SP;35;5401;Barra do Turvo;7.606
+SP;35;5500;Barretos;123.546
+SP;35;5609;Barrinha;33.537
+SP;35;5708;Barueri;279.704
+SP;35;5807;Bastos;20.952
+SP;35;5906;Batatais;63.438
+SP;35;6003;Bauru;381.706
+SP;35;6102;Bebedouro;77.612
+SP;35;6201;Bento de Abreu;3.028
+SP;35;6300;Bernardino de Campos;11.168
+SP;35;6359;Bertioga;66.154
+SP;35;6409;Bilac;8.197
+SP;35;6508;Birigui;126.094
+SP;35;6607;Biritiba Mirim;33.265
+SP;35;6706;Boa Esperança do Sul;15.111
+SP;35;6805;Bocaina;12.571
+SP;35;6904;Bofete;12.107
+SP;35;7001;Boituva;63.310
+SP;35;7100;Bom Jesus dos Perdões;26.506
+SP;35;7159;Bom Sucesso de Itararé;4.013
+SP;35;7209;Borá;839
+SP;35;7308;Boracéia;4.913
+SP;35;7407;Borborema;16.278
+SP;35;7456;Borebi;2.713
+SP;35;7506;Botucatu;149.718
+SP;35;7605;Bragança Paulista;172.346
+SP;35;7704;Braúna;5.795
+SP;35;7753;Brejo Alegre;2.911
+SP;35;7803;Brodowski;25.605
+SP;35;7902;Brotas;24.862
+SP;35;8009;Buri;20.050
+SP;35;8108;Buritama;17.414
+SP;35;8207;Buritizal;4.547
+SP;35;8306;Cabrália Paulista;4.222
+SP;35;8405;Cabreúva;51.130
+SP;35;8504;Caçapava;95.752
+SP;35;8603;Cachoeira Paulista;33.827
+SP;35;8702;Caconde;19.031
+SP;35;8801;Cafelândia;17.917
+SP;35;8900;Caiabu;4.195
+SP;35;9007;Caieiras;104.044
+SP;35;9106;Caiuá;6.017
+SP;35;9205;Cajamar;79.034
+SP;35;9254;Cajati;28.441
+SP;35;9304;Cajobi;10.649
+SP;35;9403;Cajuru;26.613
+SP;35;9452;Campina do Monte Alegre;6.088
+SP;35;9502;Campinas;1.223.237
+SP;35;9601;Campo Limpo Paulista;86.407
+SP;35;9700;Campos do Jordão;52.713
+SP;35;9809;Campos Novos Paulista;5.028
+SP;35;9908;Cananéia;12.542
+SP;35;9957;Canas;5.268
+SP;35;10005;Cândido Mota;31.410
+SP;35;10104;Cândido Rodrigues;2.805
+SP;35;10153;Canitar;5.365
+SP;35;10203;Capão Bonito;47.098
+SP;35;10302;Capela do Alto;21.257
+SP;35;10401;Capivari;56.973
+SP;35;10500;Caraguatatuba;125.194
+SP;35;10609;Carapicuíba;405.375
+SP;35;10708;Cardoso;12.371
+SP;35;10807;Casa Branca;30.655
+SP;35;10906;Cássia dos Coqueiros;2.488
+SP;35;11003;Castilho;21.521
+SP;35;11102;Catanduva;123.114
+SP;35;11201;Catiguá;7.905
+SP;35;11300;Cedral;9.452
+SP;35;11409;Cerqueira César;20.391
+SP;35;11508;Cerquilho;50.631
+SP;35;11607;Cesário Lange;18.595
+SP;35;11706;Charqueada;17.539
+SP;35;11904;Clementina;8.894
+SP;35;12001;Colina;18.601
+SP;35;12100;Colômbia;6.223
+SP;35;12209;Conchal;28.491
+SP;35;12308;Conchas;18.138
+SP;35;12407;Cordeirópolis;25.116
+SP;35;12506;Coroados;6.197
+SP;35;12605;Coronel Macedo;4.591
+SP;35;12704;Corumbataí;4.072
+SP;35;12803;Cosmópolis;74.662
+SP;35;12902;Cosmorama;7.289
+SP;35;13009;Cotia;257.882
+SP;35;13108;Cravinhos;35.858
+SP;35;13207;Cristais Paulista;8.803
+SP;35;13306;Cruzália;2.021
+SP;35;13405;Cruzeiro;82.895
+SP;35;13504;Cubatão;132.521
+SP;35;13603;Cunha;21.373
+SP;35;13702;Descalvado;34.097
+SP;35;13801;Diadema;429.550
+SP;35;13850;Dirce Reis;1.805
+SP;35;13900;Divinolândia;11.027
+SP;35;14007;Dobrada;9.088
+SP;35;14106;Dois Córregos;27.704
+SP;35;14205;Dolcinópolis;2.108
+SP;35;14304;Dourado;8.883
+SP;35;14403;Dracena;47.287
+SP;35;14502;Duartina;12.421
+SP;35;14601;Dumont;10.174
+SP;35;14700;Echaporã;6.026
+SP;35;14809;Eldorado;15.592
+SP;35;14908;Elias Fausto;18.095
+SP;35;14924;Elisiário;3.742
+SP;35;14957;Embaúba;2.446
+SP;35;15004;Embu das Artes;279.264
+SP;35;15103;Embu-Guaçu;70.402
+SP;35;15129;Emilianópolis;3.238
+SP;35;15152;Engenheiro Coelho;21.712
+SP;35;15186;Espírito Santo do Pinhal;44.607
+SP;35;15194;Espírito Santo do Turvo;4.926
+SP;35;15202;Estrela d'Oeste;8.420
+SP;35;15301;Estrela do Norte;2.774
+SP;35;15350;Euclides da Cunha Paulista;9.280
+SP;35;15400;Fartura;16.102
+SP;35;15509;Fernandópolis;69.680
+SP;35;15608;Fernando Prestes;5.805
+SP;35;15657;Fernão;1.739
+SP;35;15707;Ferraz de Vasconcelos;198.661
+SP;35;15806;Flora Rica;1.397
+SP;35;15905;Floreal;2.884
+SP;35;16002;Flórida Paulista;14.936
+SP;35;16101;Florínea;2.631
+SP;35;16200;Franca;358.539
+SP;35;16309;Francisco Morato;179.372
+SP;35;16408;Franco da Rocha;158.438
+SP;35;16507;Gabriel Monteiro;2.776
+SP;35;16606;Gália;6.419
+SP;35;16705;Garça;44.429
+SP;35;16804;Gastão Vidigal;4.911
+SP;35;16853;Gavião Peixoto;4.841
+SP;35;16903;General Salgado;10.855
+SP;35;17000;Getulina;11.485
+SP;35;17109;Glicério;4.842
+SP;35;17208;Guaiçara;12.416
+SP;35;17307;Guaimbê;5.806
+SP;35;17406;Guaíra;41.283
+SP;35;17505;Guapiaçu;22.087
+SP;35;17604;Guapiara;16.896
+SP;35;17703;Guará;21.394
+SP;35;17802;Guaraçaí;8.258
+SP;35;17901;Guaraci;11.382
+SP;35;18008;Guarani d'Oeste;1.996
+SP;35;18107;Guarantã;6.685
+SP;35;18206;Guararapes;33.257
+SP;35;18305;Guararema;30.465
+SP;35;18404;Guaratinguetá;123.192
+SP;35;18503;Guareí;19.244
+SP;35;18602;Guariba;40.857
+SP;35;18701;Guarujá;324.977
+SP;35;18800;Guarulhos;1.404.694
+SP;35;18859;Guatapará;7.760
+SP;35;18909;Guzolândia;5.346
+SP;35;19006;Herculândia;9.649
+SP;35;19055;Holambra;15.605
+SP;35;19071;Hortolândia;237.570
+SP;35;19105;Iacanga;12.002
+SP;35;19204;Iacri;6.269
+SP;35;19253;Iaras;9.786
+SP;35;19303;Ibaté;35.830
+SP;35;19402;Ibirá;12.639
+SP;35;19501;Ibirarema;7.926
+SP;35;19600;Ibitinga;61.150
+SP;35;19709;Ibiúna;80.062
+SP;35;19808;Icém;8.363
+SP;35;19907;Iepê;8.228
+SP;35;20004;Igaraçu do Tietê;24.821
+SP;35;20103;Igarapava;30.791
+SP;35;20202;Igaratá;9.631
+SP;35;20301;Iguape;31.117
+SP;35;20400;Ilhabela;36.194
+SP;35;20426;Ilha Comprida;11.552
+SP;35;20442;Ilha Solteira;26.886
+SP;35;20509;Indaiatuba;260.690
+SP;35;20608;Indiana;4.873
+SP;35;20707;Indiaporã;3.876
+SP;35;20806;Inúbia Paulista;4.045
+SP;35;20905;Ipaussu;15.165
+SP;35;21002;Iperó;38.771
+SP;35;21101;Ipeúna;7.824
+SP;35;21150;Ipiguá;5.557
+SP;35;21200;Iporanga;4.180
+SP;35;21309;Ipuã;16.794
+SP;35;21408;Iracemápolis;24.982
+SP;35;21507;Irapuã;8.101
+SP;35;21606;Irapuru;8.356
+SP;35;21705;Itaberá;17.405
+SP;35;21804;Itaí;27.632
+SP;35;21903;Itajobi;15.331
+SP;35;22000;Itaju;3.937
+SP;35;22109;Itanhaém;104.351
+SP;35;22158;Itaoca;3.332
+SP;35;22208;Itapecerica da Serra;179.574
+SP;35;22307;Itapetininga;167.106
+SP;35;22406;Itapeva;95.241
+SP;35;22505;Itapevi;244.131
+SP;35;22604;Itapira;75.683
+SP;35;22653;Itapirapuã Paulista;4.294
+SP;35;22703;Itápolis;43.536
+SP;35;22802;Itaporanga;15.197
+SP;35;22901;Itapuí;14.297
+SP;35;23008;Itapura;4.994
+SP;35;23107;Itaquaquecetuba;379.082
+SP;35;23206;Itararé;50.778
+SP;35;23305;Itariri;17.754
+SP;35;23404;Itatiba;124.254
+SP;35;23503;Itatinga;21.139
+SP;35;23602;Itirapina;18.610
+SP;35;23701;Itirapuã;6.587
+SP;35;23800;Itobi;7.862
+SP;35;23909;Itu;177.150
+SP;35;24006;Itupeva;64.330
+SP;35;24105;Ituverava;42.259
+SP;35;24204;Jaborandi;6.963
+SP;35;24303;Jaboticabal;78.029
+SP;35;24402;Jacareí;237.119
+SP;35;24501;Jaci;7.322
+SP;35;24600;Jacupiranga;17.911
+SP;35;24709;Jaguariúna;59.921
+SP;35;24808;Jales;49.291
+SP;35;24907;Jambeiro;6.828
+SP;35;25003;Jandira;127.734
+SP;35;25102;Jardinópolis;45.544
+SP;35;25201;Jarinu;31.173
+SP;35;25300;Jaú;153.463
+SP;35;25409;Jeriquara;3.143
+SP;35;25508;Joanópolis;13.453
+SP;35;25607;João Ramalho;4.577
+SP;35;25706;José Bonifácio;37.707
+SP;35;25805;Júlio Mesquita;4.824
+SP;35;25854;Jumirim;3.467
+SP;35;25904;Jundiaí;426.935
+SP;35;26001;Junqueirópolis;20.978
+SP;35;26100;Juquiá;18.627
+SP;35;26209;Juquitiba;31.844
+SP;35;26308;Lagoinha;4.882
+SP;35;26407;Laranjal Paulista;29.047
+SP;35;26506;Lavínia;12.581
+SP;35;26605;Lavrinhas;7.361
+SP;35;26704;Leme;105.273
+SP;35;26803;Lençóis Paulista;69.533
+SP;35;26902;Limeira;310.783
+SP;35;27009;Lindóia;8.201
+SP;35;27108;Lins;78.978
+SP;35;27207;Lorena;89.532
+SP;35;27256;Lourdes;2.311
+SP;35;27306;Louveira;51.007
+SP;35;27405;Lucélia;22.022
+SP;35;27504;Lucianópolis;2.412
+SP;35;27603;Luís Antônio;15.628
+SP;35;27702;Luiziânia;5.918
+SP;35;27801;Lupércio;4.608
+SP;35;27900;Lutécia;2.623
+SP;35;28007;Macatuba;17.263
+SP;35;28106;Macaubal;8.174
+SP;35;28205;Macedônia;3.686
+SP;35;28304;Magda;3.086
+SP;35;28403;Mairinque;47.723
+SP;35;28502;Mairiporã;103.645
+SP;35;28601;Manduri;9.972
+SP;35;28700;Marabá Paulista;6.039
+SP;35;28809;Maracaí;14.069
+SP;35;28858;Marapoama;3.097
+SP;35;28908;Mariápolis;4.098
+SP;35;29005;Marília;242.249
+SP;35;29104;Marinópolis;2.101
+SP;35;29203;Martinópolis;26.791
+SP;35;29302;Matão;84.069
+SP;35;29401;Mauá;481.725
+SP;35;29500;Mendonça;5.638
+SP;35;29609;Meridiano;3.813
+SP;35;29658;Mesópolis;1.903
+SP;35;29708;Miguelópolis;22.480
+SP;35;29807;Mineiros do Tietê;13.023
+SP;35;29906;Miracatu;19.511
+SP;35;30003;Mira Estrela;3.125
+SP;35;30102;Mirandópolis;29.844
+SP;35;30201;Mirante do Paranapanema;18.415
+SP;35;30300;Mirassol;60.768
+SP;35;30409;Mirassolândia;4.966
+SP;35;30508;Mococa;69.072
+SP;35;30607;Mogi das Cruzes;455.587
+SP;35;30706;Mogi Guaçu;154.146
+SP;35;30805;Mogi Mirim;94.098
+SP;35;30904;Mombuca;3.523
+SP;35;31001;Monções;2.274
+SP;35;31100;Mongaguá;58.567
+SP;35;31209;Monte Alegre do Sul;8.181
+SP;35;31308;Monte Alto;51.039
+SP;35;31407;Monte Aprazível;25.651
+SP;35;31506;Monte Azul Paulista;18.928
+SP;35;31605;Monte Castelo;4.166
+SP;35;31704;Monteiro Lobato;4.739
+SP;35;31803;Monte Mor;61.707
+SP;35;31902;Morro Agudo;33.598
+SP;35;32009;Morungaba;13.936
+SP;35;32058;Motuca;4.831
+SP;35;32108;Murutinga do Sul;4.525
+SP;35;32157;Nantes;3.215
+SP;35;32207;Narandiba;4.950
+SP;35;32306;Natividade da Serra;6.624
+SP;35;32405;Nazaré Paulista;18.866
+SP;35;32504;Neves Paulista;8.917
+SP;35;32603;Nhandeara;11.575
+SP;35;32702;Nipoã;5.381
+SP;35;32801;Nova Aliança;7.161
+SP;35;32827;Nova Campina;9.962
+SP;35;32843;Nova Canaã Paulista;1.824
+SP;35;32868;Nova Castilho;1.290
+SP;35;32900;Nova Europa;11.519
+SP;35;33007;Nova Granada;21.871
+SP;35;33106;Nova Guataporanga;2.333
+SP;35;33205;Nova Independência;4.135
+SP;35;33254;Novais;6.057
+SP;35;33304;Nova Luzitânia;4.217
+SP;35;33403;Nova Odessa;61.716
+SP;35;33502;Novo Horizonte;41.765
+SP;35;33601;Nuporanga;7.522
+SP;35;33700;Ocauçu;4.294
+SP;35;33809;Óleo;2.447
+SP;35;33908;Olímpia;55.477
+SP;35;34005;Onda Verde;4.462
+SP;35;34104;Oriente;6.569
+SP;35;34203;Orindiúva;7.318
+SP;35;34302;Orlândia;44.682
+SP;35;34401;Osasco;701.428
+SP;35;34500;Oscar Bressane;2.603
+SP;35;34609;Osvaldo Cruz;33.118
+SP;35;34708;Ourinhos;115.139
+SP;35;34757;Ouroeste;10.712
+SP;35;34807;Ouro Verde;8.676
+SP;35;34906;Pacaembu;14.326
+SP;35;35002;Palestina;13.285
+SP;35;35101;Palmares Paulista;13.691
+SP;35;35200;Palmeira d'Oeste;9.173
+SP;35;35309;Palmital;22.322
+SP;35;35408;Panorama;15.944
+SP;35;35507;Paraguaçu Paulista;46.180
+SP;35;35606;Paraibuna;18.302
+SP;35;35705;Paraíso;6.536
+SP;35;35804;Paranapanema;20.588
+SP;35;35903;Paranapuã;4.112
+SP;35;36000;Parapuã;10.934
+SP;35;36109;Pardinho;6.579
+SP;35;36208;Pariquera-Açu;19.797
+SP;35;36257;Parisi;2.177
+SP;35;36307;Patrocínio Paulista;14.941
+SP;35;36406;Paulicéia;7.540
+SP;35;36505;Paulínia;114.508
+SP;35;36570;Paulistânia;1.835
+SP;35;36604;Paulo de Faria;8.973
+SP;35;36703;Pederneiras;47.523
+SP;35;36802;Pedra Bela;6.127
+SP;35;36901;Pedranópolis;2.468
+SP;35;37008;Pedregulho;16.876
+SP;35;37107;Pedreira;48.992
+SP;35;37156;Pedrinhas Paulista;3.109
+SP;35;37206;Pedro de Toledo;11.507
+SP;35;37305;Penápolis;64.098
+SP;35;37404;Pereira Barreto;25.685
+SP;35;37503;Pereiras;8.875
+SP;35;37602;Peruíbe;69.697
+SP;35;37701;Piacatu;6.093
+SP;35;37800;Piedade;55.731
+SP;35;37909;Pilar do Sul;29.612
+SP;35;38006;Pindamonhangaba;171.885
+SP;35;38105;Pindorama;17.378
+SP;35;38204;Pinhalzinho;15.564
+SP;35;38303;Piquerobi;3.706
+SP;35;38501;Piquete;13.495
+SP;35;38600;Piracaia;27.617
+SP;35;38709;Piracicaba;410.275
+SP;35;38808;Piraju;29.930
+SP;35;38907;Pirajuí;25.939
+SP;35;39004;Pirangi;11.524
+SP;35;39103;Pirapora do Bom Jesus;19.453
+SP;35;39202;Pirapozinho;27.974
+SP;35;39301;Pirassununga;77.330
+SP;35;39400;Piratininga;13.890
+SP;35;39509;Pitangueiras;40.430
+SP;35;39608;Planalto;5.370
+SP;35;39707;Platina;3.606
+SP;35;39806;Poá;119.221
+SP;35;39905;Poloni;6.166
+SP;35;40002;Pompéia;22.326
+SP;35;40101;Pongaí;3.385
+SP;35;40200;Pontal;51.717
+SP;35;40259;Pontalinda;4.719
+SP;35;40309;Pontes Gestal;2.576
+SP;35;40408;Populina;4.136
+SP;35;40507;Porangaba;10.205
+SP;35;40606;Porto Feliz;53.698
+SP;35;40705;Porto Ferreira;56.848
+SP;35;40754;Potim;25.603
+SP;35;40804;Potirendaba;17.668
+SP;35;40853;Pracinha;4.327
+SP;35;40903;Pradópolis;22.239
+SP;35;41000;Praia Grande;336.454
+SP;35;41059;Pratânia;5.371
+SP;35;41109;Presidente Alves;4.067
+SP;35;41208;Presidente Bernardes;12.943
+SP;35;41307;Presidente Epitácio;44.572
+SP;35;41406;Presidente Prudente;231.953
+SP;35;41505;Presidente Venceslau;39.648
+SP;35;41604;Promissão;41.211
+SP;35;41653;Quadra;3.902
+SP;35;41703;Quatá;14.309
+SP;35;41802;Queiroz;3.513
+SP;35;41901;Queluz;13.788
+SP;35;42008;Quintana;6.736
+SP;35;42107;Rafard;9.126
+SP;35;42206;Rancharia;29.743
+SP;35;42305;Redenção da Serra;3.827
+SP;35;42404;Regente Feijó;20.523
+SP;35;42503;Reginópolis;10.047
+SP;35;42602;Registro;56.463
+SP;35;42701;Restinga;7.762
+SP;35;42800;Ribeira;3.320
+SP;35;42909;Ribeirão Bonito;13.376
+SP;35;43006;Ribeirão Branco;15.984
+SP;35;43105;Ribeirão Corrente;4.786
+SP;35;43204;Ribeirão do Sul;4.537
+SP;35;43238;Ribeirão dos Índios;2.222
+SP;35;43253;Ribeirão Grande;7.686
+SP;35;43303;Ribeirão Pires;125.238
+SP;35;43402;Ribeirão Preto;720.116
+SP;35;43501;Riversul;5.364
+SP;35;43600;Rifaina;3.651
+SP;35;43709;Rincão;10.824
+SP;35;43808;Rinópolis;9.940
+SP;35;43907;Rio Claro;209.548
+SP;35;44004;Rio das Pedras;36.233
+SP;35;44103;Rio Grande da Serra;52.009
+SP;35;44202;Riolândia;12.856
+SP;35;44251;Rosana;15.929
+SP;35;44301;Roseira;10.888
+SP;35;44400;Rubiácea;3.195
+SP;35;44509;Rubinéia;3.191
+SP;35;44608;Sabino;5.638
+SP;35;44707;Sagres;2.427
+SP;35;44806;Sales;6.481
+SP;35;44905;Sales Oliveira;12.103
+SP;35;45001;Salesópolis;17.363
+SP;35;45100;Salmourão;5.372
+SP;35;45159;Saltinho;8.498
+SP;35;45209;Salto;120.779
+SP;35;45308;Salto de Pirapora;46.285
+SP;35;45407;Salto Grande;9.396
+SP;35;45506;Sandovalina;4.405
+SP;35;45605;Santa Adélia;15.639
+SP;35;45704;Santa Albertina;6.036
+SP;35;45803;Santa Bárbara d'Oeste;195.278
+SP;35;46009;Santa Branca;14.925
+SP;35;46108;Santa Clara d'Oeste;2.111
+SP;35;46207;Santa Cruz da Conceição;4.584
+SP;35;46256;Santa Cruz da Esperança;2.166
+SP;35;46306;Santa Cruz das Palmeiras;35.102
+SP;35;46405;Santa Cruz do Rio Pardo;48.207
+SP;35;46504;Santa Ernestina;5.577
+SP;35;46603;Santa Fé do Sul;32.796
+SP;35;46702;Santa Gertrudes;27.850
+SP;35;46801;Santa Isabel;58.529
+SP;35;46900;Santa Lúcia;8.889
+SP;35;47007;Santa Maria da Serra;6.298
+SP;35;47106;Santa Mercedes;2.947
+SP;35;47205;Santana da Ponte Pensa;1.448
+SP;35;47304;Santana de Parnaíba;145.073
+SP;35;47403;Santa Rita d'Oeste;2.476
+SP;35;47502;Santa Rita do Passa Quatro;27.641
+SP;35;47601;Santa Rosa de Viterbo;26.960
+SP;35;47650;Santa Salete;1.558
+SP;35;47700;Santo Anastácio;20.855
+SP;35;47809;Santo André;723.889
+SP;35;47908;Santo Antônio da Alegria;7.024
+SP;35;48005;Santo Antônio de Posse;23.742
+SP;35;48054;Santo Antônio do Aracanguá;8.541
+SP;35;48104;Santo Antônio do Jardim;5.926
+SP;35;48203;Santo Antônio do Pinhal;6.843
+SP;35;48302;Santo Expedito;3.159
+SP;35;48401;Santópolis do Aguapeí;4.856
+SP;35;48500;Santos;433.991
+SP;35;48609;São Bento do Sapucaí;10.907
+SP;35;48708;São Bernardo do Campo;849.874
+SP;35;48807;São Caetano do Sul;162.763
+SP;35;48906;São Carlos;256.915
+SP;35;49003;São Francisco;2.813
+SP;35;49102;São João da Boa Vista;92.315
+SP;35;49201;São João das Duas Pontes;2.555
+SP;35;49250;São João de Iracema;1.942
+SP;35;49300;São João do Pau d'Alho;2.095
+SP;35;49409;São Joaquim da Barra;52.737
+SP;35;49508;São José da Bela Vista;8.991
+SP;35;49607;São José do Barreiro;4.141
+SP;35;49706;São José do Rio Pardo;55.298
+SP;35;49805;São José do Rio Preto;469.173
+SP;35;49904;São José dos Campos;737.310
+SP;35;49953;São Lourenço da Serra;16.127
+SP;35;50001;São Luiz do Paraitinga;10.693
+SP;35;50100;São Manuel;41.287
+SP;35;50209;São Miguel Arcanjo;33.071
+SP;35;50308;São Paulo;12.396.372
+SP;35;50407;São Pedro;36.298
+SP;35;50506;São Pedro do Turvo;7.724
+SP;35;50605;São Roque;93.076
+SP;35;50704;São Sebastião;91.637
+SP;35;50803;São Sebastião da Grama;12.137
+SP;35;50902;São Simão;15.446
+SP;35;51009;São Vicente;370.839
+SP;35;51108;Sarapuí;10.493
+SP;35;51207;Sarutaiá;3.623
+SP;35;51306;Sebastianópolis do Sul;3.595
+SP;35;51405;Serra Azul;15.292
+SP;35;51504;Serrana;46.166
+SP;35;51603;Serra Negra;29.669
+SP;35;51702;Sertãozinho;128.432
+SP;35;51801;Sete Barras;12.731
+SP;35;51900;Severínia;17.820
+SP;35;52007;Silveiras;6.375
+SP;35;52106;Socorro;41.690
+SP;35;52205;Sorocaba;695.328
+SP;35;52304;Sud Mennucci;7.738
+SP;35;52403;Sumaré;289.875
+SP;35;52502;Suzano;303.397
+SP;35;52551;Suzanápolis;4.063
+SP;35;52601;Tabapuã;12.561
+SP;35;52700;Tabatinga;16.787
+SP;35;52809;Taboão da Serra;297.528
+SP;35;52908;Taciba;6.371
+SP;35;53005;Taguaí;14.415
+SP;35;53104;Taiaçu;6.346
+SP;35;53203;Taiúva;5.562
+SP;35;53302;Tambaú;23.255
+SP;35;53401;Tanabi;26.231
+SP;35;53500;Tapiraí;7.725
+SP;35;53609;Tapiratiba;12.940
+SP;35;53658;Taquaral;2.815
+SP;35;53708;Taquaritinga;57.547
+SP;35;53807;Taquarituba;23.292
+SP;35;53856;Taquarivaí;5.968
+SP;35;53906;Tarabai;7.609
+SP;35;53955;Tarumã;15.361
+SP;35;54003;Tatuí;124.134
+SP;35;54102;Taubaté;320.820
+SP;35;54201;Tejupá;4.452
+SP;35;54300;Teodoro Sampaio;23.395
+SP;35;54409;Terra Roxa;9.502
+SP;35;54508;Tietê;42.946
+SP;35;54607;Timburi;2.647
+SP;35;54656;Torre de Pedra;2.432
+SP;35;54706;Torrinha;10.100
+SP;35;54755;Trabiju;1.752
+SP;35;54805;Tremembé;48.228
+SP;35;54904;Três Fronteiras;5.856
+SP;35;54953;Tuiuti;7.058
+SP;35;55000;Tupã;65.615
+SP;35;55109;Tupi Paulista;15.670
+SP;35;55208;Turiúba;2.024
+SP;35;55307;Turmalina;1.667
+SP;35;55356;Ubarana;6.488
+SP;35;55406;Ubatuba;92.819
+SP;35;55505;Ubirajara;4.828
+SP;35;55604;Uchoa;10.191
+SP;35;55703;União Paulista;1.886
+SP;35;55802;Urânia;9.125
+SP;35;55901;Uru;1.142
+SP;35;56008;Urupês;13.965
+SP;35;56107;Valentim Gentil;13.732
+SP;35;56206;Valinhos;133.169
+SP;35;56305;Valparaíso;27.154
+SP;35;56354;Vargem;10.842
+SP;35;56404;Vargem Grande do Sul;43.368
+SP;35;56453;Vargem Grande Paulista;54.315
+SP;35;56503;Várzea Paulista;124.269
+SP;35;56602;Vera Cruz;10.804
+SP;35;56701;Vinhedo;81.516
+SP;35;56800;Viradouro;19.133
+SP;35;56909;Vista Alegre do Alto;9.163
+SP;35;56958;Vitória Brasil;1.852
+SP;35;57006;Votorantim;124.468
+SP;35;57105;Votuporanga;96.106
+SP;35;57154;Zacarias;2.784
+SP;35;57204;Chavantes;12.418
+SP;35;57303;Estiva Gerbi;11.507
